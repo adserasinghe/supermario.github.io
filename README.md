@@ -29,9 +29,7 @@
   -webkit-user-select: none;
   touch-action: manipulation;
 }
-.button:hover,
-.button:focus {
+.button:hover
   background-color: #F082AC;
 }
 </style>
-<button class="button-1" role="button">Button 1</button>
