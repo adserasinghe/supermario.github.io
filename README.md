@@ -3,8 +3,7 @@
      height="300"></img>
 <button class="button" role="button" src="https://adserasinghe.github.io/supermario.github.io/">Click Here to play game</button>
 <style>
-     .button{
-          .button {
+.button {
   background-color: #EA4C89;
   border-radius: 8px;
   border-style: none;
@@ -30,12 +29,9 @@
   -webkit-user-select: none;
   touch-action: manipulation;
 }
-
-.button-1:hover,
-.button-1:focus {
+.button:hover,
+.button:focus {
   background-color: #F082AC;
 }
-
-          }
 </style>
 <button class="button-1" role="button">Button 1</button>
