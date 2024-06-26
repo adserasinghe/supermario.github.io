@@ -3,6 +3,6 @@
 <img src="./img/qr-code.png" width="300" 
      height="300"></img>
 <a src="https://adserasinghe.github.io/supermario.github.io/">
-<button>Click Here to play game</button>
+<button class= "GFG">Click Here to play game</button>
 </a>
 </html>
